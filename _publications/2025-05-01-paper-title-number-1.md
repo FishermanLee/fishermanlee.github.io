@@ -1,11 +1,11 @@
 ---
 title: "Target-Oriented Robust Inventory Management in Electric Vehicle Battery Swapping Networks"
 collection: publications
-category: manuscripts
+category: working_papers
 permalink: /publication/2025-05-01-paper-title-number-1
 excerpt: 'This research aims to address the battery inventory management problem with uncertain demand that arises in an EV battery swapping-charging network. In this problem, decision-makers determine initial battery stocks and periodic network operations, including battery replenishment, fulfillment, and lateral transshipment. To tackle the curse of dimensionality and distributional ambiguity, we propose a utility-based Service Level Measure (SLM) and incorporate this measure to derive a target-oriented Robust Satisficing (RS) model. A rigorous mathematical proof is provided for the salient properties of the SLM and RS models. This work pioneers the examination of multi-stage robust decisions under novel RS framework.'
 date: 2025-05-01
-venue: 'Under Review in Transportation Science'
+venue: 'Unpublished manuscript'
 paperurl: '/files/TS-1.pdf'
 ---
 

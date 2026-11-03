@@ -13,7 +13,9 @@ redirect_from:
 
 Education
 ======
-- Master of Engineering Management in Logistics Engineering and Management, Research Center of Logistics, College of Economic and Social Development,  Nankai University,  *Expected Jun 2026*.
+- Ph.D. student, School of Data Science, The Chinese University of Hong Kong, Shenzhen, *Fall 2026 – present*. Advisors: [Prof. Jie Wang](https://walterbabyrudin.github.io/) and [Prof. Lianmin Zhang](https://lianminzhang2021.github.io/).
+
+- Master of Engineering Management in Logistics Engineering and Management, Research Center of Logistics, College of Economic and Social Development,  Nankai University,  *2023 – 2026*.
 
 - Bachelor of Management in Industrial Engineering, College of Economics and Management, Nanjing University of Aeronautics and Astronautics, *Sep 2019 – Jun 2023*.
 
