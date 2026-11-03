@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-- Ph.D. student, School of Data Science, The Chinese University of Hong Kong, Shenzhen, *Fall 2026 – present*. Advisors: [Prof. Jie Wang](https://walterbabyrudin.github.io/) and [Prof. Lianmin Zhang](https://lianminzhang2021.github.io/).
+- Ph.D. student in Data Science, School of Data Science, The Chinese University of Hong Kong, Shenzhen, *Fall 2026 – present*. Advisors: [Prof. Jie Wang](https://walterbabyrudin.github.io/) and [Prof. Lianmin Zhang](https://lianminzhang2021.github.io/).
 
 - Master of Engineering Management in Logistics Engineering and Management, Research Center of Logistics, College of Economic and Social Development,  Nankai University,  *2023 – 2026*.
 
